@@ -1,5 +1,5 @@
-bitnami/kafka:latest
-bitnami/zookeeper:latest
+'bitnami/kafka:latest'
+'bitnami/zookeeper:latest'
 nginx:alpine
 redis:latest
 postgres:latest
