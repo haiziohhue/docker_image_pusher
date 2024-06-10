@@ -4,4 +4,5 @@ nginx:alpine
 redis:latest
 mysql:latest
 postgres:latest
+obsidiandynamics/kafdrop:latest
 alpine
