@@ -2,5 +2,6 @@ bitnami/kafka:latest
 bitnami/zookeeper:latest
 nginx:alpine
 redis:latest
+mysql:latest
 postgres:latest
 alpine
