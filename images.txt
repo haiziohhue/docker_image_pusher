@@ -6,3 +6,4 @@ mysql:latest
 postgres:latest
 obsidiandynamics/kafdrop:latest
 alpine
+nfew/aio-dynamic-push:latest
