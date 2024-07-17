@@ -1,3 +1,8 @@
+mysql:5.6
+webasepro/webase-web:v1.5.3
+webasepro/webase-sign:v1.5.3
+webasepro/webase-node-mgr:v1.5.3
+webasepro/webase-front:v1.5.3
 mysql:5.7
 bitnami/kafka:latest
 bitnami/zookeeper:latest
