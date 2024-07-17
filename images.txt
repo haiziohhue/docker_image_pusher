@@ -1,3 +1,4 @@
+mysql:5.7
 bitnami/kafka:latest
 bitnami/zookeeper:latest
 nginx:alpine
