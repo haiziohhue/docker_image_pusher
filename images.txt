@@ -1,3 +1,4 @@
+mysql:8.3
 jc21/nginx-proxy-manager:latest
 gitlab/gitlab-ce:latest
 jenkins/jenkins:latest
