@@ -1,3 +1,4 @@
+jc21/nginx-proxy-manager:latest
 gitlab/gitlab-ce:latest
 jenkins/jenkins:latest
 yidadaa/chatgpt-next-web:latest
