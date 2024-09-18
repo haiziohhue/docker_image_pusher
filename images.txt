@@ -1,3 +1,4 @@
+node:21
 jc21/mariadb-aria:latest
 jc21/nginx-proxy-manager:2.9.14
 mysql:8.3
