@@ -1,5 +1,5 @@
 openjdk:17
-openjdk:1.8
+openjdk:8
 openjdk:21
 1dev/server
 node:21
