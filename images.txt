@@ -1,3 +1,4 @@
+1dev/server
 node:21
 jc21/mariadb-aria:latest
 jc21/nginx-proxy-manager:2.9.14
