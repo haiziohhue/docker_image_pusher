@@ -1,4 +1,4 @@
-lss233/chatgpt-mirai-qq-bot
+lss233/chatgpt-mirai-qq-bot:browser-version
 gitea/gitea
 gcr.io/k8s-minikube/kicbase:v0.0.45
 openjdk:17
