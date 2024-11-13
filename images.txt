@@ -1,3 +1,4 @@
+maven:3.8.4
 lss233/chatgpt-mirai-qq-bot:browser-version
 gitea/gitea
 gcr.io/k8s-minikube/kicbase:v0.0.45
