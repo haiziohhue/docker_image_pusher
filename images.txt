@@ -1,3 +1,4 @@
+ubuntu:latest
 gitea/act_runner:latest
 maven:3.8.4
 lss233/chatgpt-mirai-qq-bot:browser-version
