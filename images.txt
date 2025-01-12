@@ -1,3 +1,4 @@
+chromedp/headless-shell:latest
 golang:1.23
 ubuntu:latest
 gitea/act_runner:latest
