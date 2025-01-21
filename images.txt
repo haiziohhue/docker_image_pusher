@@ -1,10 +1,11 @@
+yidadaa/chatgpt-next-web:latest
 chromedp/headless-shell:latest
 golang:1.23
 ubuntu:latest
 gitea/act_runner:latest
 lss233/chatgpt-mirai-qq-bot:browser-version
 gitea/gitea
-yidadaa/chatgpt-next-web:latest
+
 bitnami/kafka:latest
 bitnami/zookeeper:latest
 redis:latest
