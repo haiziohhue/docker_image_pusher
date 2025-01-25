@@ -1,3 +1,4 @@
+xhofe/alist:latest
 minio/minio:latest
 yidadaa/chatgpt-next-web:latest
 chromedp/headless-shell:latest
