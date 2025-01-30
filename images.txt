@@ -1,3 +1,4 @@
+mysql:8.0.27
 xhofe/alist:latest
 minio/minio:latest
 yidadaa/chatgpt-next-web:latest
