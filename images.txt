@@ -1,3 +1,4 @@
+openjdk:21
 postgres:16
 mysql:8.0.27
 xhofe/alist:latest
