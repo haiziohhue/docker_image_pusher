@@ -1,3 +1,4 @@
+lobehub/lobe-chat
 openjdk:21
 postgres:16
 mysql:8.0.27
