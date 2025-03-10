@@ -1,3 +1,4 @@
+yuzutech/kroki
 plantuml/plantuml-server:latest
 lobehub/lobe-chat
 openjdk:21
