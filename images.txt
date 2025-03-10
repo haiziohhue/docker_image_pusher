@@ -1,3 +1,6 @@
+yuzutech/kroki-mermaid
+yuzutech/kroki-bpmn
+yuzutech/kroki-excalidraw
 yuzutech/kroki
 plantuml/plantuml-server:latest
 lobehub/lobe-chat
