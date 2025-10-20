@@ -1,3 +1,4 @@
+freqtradeorg/freqtrade:stable
 python:3.11-slim
 prom/prometheus
 grafana/grafana
