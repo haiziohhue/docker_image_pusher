@@ -1,3 +1,4 @@
+quay.io/biocontainers/metawrap:1.2--0
 dreamacro/clash
 freqtradeorg/freqtrade:stable
 python:3.11-slim
