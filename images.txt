@@ -1,4 +1,4 @@
-pg16-trixie
+pgvector/pgvector:pg16-trixie
 quay.io/biocontainers/metawrap:1.2--0
 dreamacro/clash
 freqtradeorg/freqtrade:stable
