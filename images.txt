@@ -1,5 +1,5 @@
-postgres:18
 weishaw/sub2api
+postgres:18
 redis:8
 smanx/clash-verge
 rabbitmq:3-management
