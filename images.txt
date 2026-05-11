@@ -1,6 +1,6 @@
 weishaw/sub2api
-postgres:18
 redis:8
+postgres:18
 smanx/clash-verge
 rabbitmq:3-management
 pgvector/pgvector:pg16-trixie
